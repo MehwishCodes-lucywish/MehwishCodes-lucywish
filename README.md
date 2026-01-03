@@ -1,6 +1,5 @@
 # 💫 About Me:
-💫 About Me: 💻 Frontend Learner | 🌿 Web Developer (HTML, CSS, JS, PHP, Laravel) 🎯 Passionate about building beautiful & responsive websites 📚 Learning every day<br><br>💻 Tech Stack: HTML5 JavaScript PHP CSS3 Netlify Vercel Firebase Bootstrap Ant-Design Laravel React Hook Form React Router React TailwindCSS Vite Apache MySQL CrateDB Canva Figma GitHub🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
+💫 About Me: 💻 Frontend Learner | 🌿 Web Developer (HTML, CSS, JS, PHP, Laravel) 🎯 Passionate about building beautiful & responsive websites 📚 Learning every day<br><br>💻 Tech Stack: HTML5 JavaScript PHP CSS3 Netlify Vercel Firebase Bootstrap Ant-Design Laravel React Hook Form React Router React TailwindCSS Vite Apache MySQL CrateDB Canva Figma GitHub🔭
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mehwish.shinyeyes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mehwish-zain/) 
